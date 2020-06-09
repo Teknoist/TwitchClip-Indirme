@@ -1,0 +1,5 @@
+var urls = document.getElementsByTagName('img');
+
+for (url in urls) {
+console.log( urls[url].src.slice(0, -20) + ".mp4" );
+}
