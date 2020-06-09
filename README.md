@@ -22,6 +22,7 @@ Powershelle aşağıdaki komutu girin. (Clips.txt siz artık ne isim verdiyseniz
 İndirme youtube-dl.exe olduğu klasöre yapılacak teker teker biraz sürebilir.(Resim 7)
 Bittiğinde konsol durur ve direk kapatabilirsiniz.
 
+**RESIM 1**
 ![GitHub Logo](/images/ss1.png)
 
 ![GitHub Logo](/images/ss2.jpg)
