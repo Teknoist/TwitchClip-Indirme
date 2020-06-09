@@ -24,15 +24,15 @@ Bittiğinde konsol durur ve direk kapatabilirsiniz.
 
 **RESIM 1**
 ![GitHub Logo](/images/ss1.png)
-
+**RESIM 2**
 ![GitHub Logo](/images/ss2.jpg)
-
+**RESIM 3**
 ![GitHub Logo](/images/ss3.png)
-
+**RESIM 4**
 ![GitHub Logo](/images/ss4.png)
-
+**RESIM 5**
 ![GitHub Logo](/images/ss5.png)
-
+**RESIM 6**
 ![GitHub Logo](/images/ss6.png)
-
+**RESIM 7**
 ![GitHub Logo](/images/ss7.png)
